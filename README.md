@@ -14,7 +14,7 @@ CIRCUIT DIAGRAM:
 <img width="1636" height="778" alt="Screenshot 2025-12-15 092210" src="https://github.com/user-attachments/assets/0132ba7c-d04c-44f8-a134-a94006d3352e" />
 
 
-<img width="1640" height="743" alt="Screenshot 2025-12-15 092412" src="https://github.com/user-attachments/assets/4f84fa86-7751-4bb9-8f86-ed5abff4638f" />
+<img width="1628" height="775" alt="Screenshot 2025-12-15 094026" src="https://github.com/user-attachments/assets/56b0b95f-7ffc-444d-8002-3a73c8849ef5" />
 
 
 PROCEDURE: -
