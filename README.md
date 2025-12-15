@@ -27,11 +27,6 @@ I. Connect the multimeter at the output of kit..
 
 
 
-
-
-
-
-
 OBSERVATION TABLE:
 
 <html>
