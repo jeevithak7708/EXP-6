@@ -63,7 +63,7 @@ OBSERVATION TABLE:
         <td>7</td>
         <td>2.2(D=-5mm)</td>
         <td>1000</td>
-        <td>1 ms</td>
+        <td>1/1000=1 ms</td>
       </tr>
     </table>
   </body>
