@@ -61,7 +61,7 @@ OBSERVATION TABLE:
       <tr>
         <th>NEGATIVE DISPLACMENT</th>
         <td>7</td>
-        <td>D=-5mm</td>
+        <td>2.2(D=-5mm)</td>
         <td>1000</td>
         <td>1 ms</td>
       </tr>
